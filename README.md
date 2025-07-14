@@ -5,13 +5,13 @@ Sample model to forecast tourist spot visitors based on past data.
 ## Run on Windows
 
 ### Prerequisite
+- Cloned project
 - Pip
 - Python
 - Terminal
 - PHP
 
 ### Run notebook on windows
-- Clone project from repository
 - Open terminal then go to the project
 ```bash
 cd <project_path>
